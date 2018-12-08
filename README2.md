@@ -13,7 +13,7 @@ More changes in Purpose chapter
 
 ## Deployment
 
-This is a simple web project, deployment ca be on any web
+This is a simple web project, deployment can be on any web
 
 ## How To Contribute
 
@@ -21,5 +21,5 @@ Please fork this repository and then issue Pull Request for review.
 
 ## Copyright
 
- @ 2018  Git training. All rights reserved
+ @ 2018 Git training. All rights reserved
 
